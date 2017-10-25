@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mark Lee mlee205@gmail.com
 
 # THANKS
 
